@@ -1,10 +1,11 @@
 # IgniteTimer
-Projeto de criação de feed com React simulando uma rede social.
-
-[Ignite Feed](https://www.figma.com/file/TFTcYvRBjrKurjyMaUjrFH/Ignite-Feed-(Community)?type=design&node-id=0%3A1&mode=design&t=FE3xnER9uBCgpKZn-1)
-
-Este projeto foi desenvolvido utilizando o Figma. Clique no link acima para visualizar o projeto no Figma.
+Projeto de criação de cronometro com React para contagem de tempo de trabalho em projetos.
 
 Funcionalidades:
- - Inserir novos comentários
- - Deletar os comentários criados.
+ - Iniciar e pausar cronometro
+ - Definir tempo e nome do projeto
+ - Acessar o histórico de timers criados
+
+[Ignite Timer](https://www.figma.com/file/6IHdFyEOayIV4n2UkFDXmA/Ignite-Timer-(Community)?type=design&node-id=0-1&mode=design&t=f1hmhPSjvZq1w58c-0)
+
+Este projeto foi desenvolvido utilizando o Figma. Clique no link acima para visualizar o projeto no Figma.
